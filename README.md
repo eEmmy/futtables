@@ -32,7 +32,7 @@ O código ficou dividido entre dois arquivos: **campeonatos.php** e **FutTables.
 Para instalar o futtables, basta baixar ou clonar esse repositório e copiar os arquivos para alguma hospedagem.
 
 * Comando para o Git
-```git clone https://github.com/eEmmy```
+```git clone https://github.com/eEmmyfuttables```
 
 ## Links
 Assim que você colocar a pasta do futtables em sua hospedagem, poderá acessar ela usando o seguinte caminho ```http://www.seusite.com/caminho/futtables/campeonato.php```. Nesse primeiro momento você poderá ver o retorno que o script dá em caso de erro (Nota: é recomendado ter instalado uma extensão que formate JSON no seu navegador).
